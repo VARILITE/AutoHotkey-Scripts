@@ -16,6 +16,6 @@
 	; Replace carriage return newline with just newline.
 	out := StrReplace(raw, "`r`n", "`n")
 
-	Send out
-	; SendEvent out
+	; Send out
+	SendEvent out
 }
