@@ -10,7 +10,10 @@ Double-click on script to activate or reload after editing
 
 Type the contents of the clipboard.
 
-Active with `Ctrl + Alt + V`
+| | |
+| - | - |
+| Hotkey | `Ctrl + Alt + V` |
+| Version | `AutoHotkey v2` |
 
 > [!NOTE]
 > Script removes carriage return and newline of copied text and replaces with only newline character.
